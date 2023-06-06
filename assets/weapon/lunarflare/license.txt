@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dark Eldar Haywire Blaster
+* source:	https://sketchfab.com/3d-models/dark-eldar-haywire-blaster-66b6205ea5f84065b4d69aa265245d78
+* author:	Frag_Jacker (https://sketchfab.com/Frag_Jacker)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dark Eldar Haywire Blaster" (https://sketchfab.com/3d-models/dark-eldar-haywire-blaster-66b6205ea5f84065b4d69aa265245d78) by Frag_Jacker (https://sketchfab.com/Frag_Jacker) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

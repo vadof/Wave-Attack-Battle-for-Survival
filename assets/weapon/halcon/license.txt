@@ -1,0 +1,11 @@
+Model Information:
+* title:	Budget Plasma Shotgun
+* source:	https://sketchfab.com/3d-models/budget-plasma-shotgun-39c3a46fa89442f6b6208a3112a9a1d0
+* author:	Renafox (https://sketchfab.com/kryik1023)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Budget Plasma Shotgun" (https://sketchfab.com/3d-models/budget-plasma-shotgun-39c3a46fa89442f6b6208a3112a9a1d0) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

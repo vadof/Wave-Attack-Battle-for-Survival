@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space cephalopod
+* source:	https://sketchfab.com/3d-models/space-cephalopod-ae8fefbd633c429998eb3c15ffeb8d4d
+* author:	XennaDemonorph (https://sketchfab.com/demonorph)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space cephalopod" (https://sketchfab.com/3d-models/space-cephalopod-ae8fefbd633c429998eb3c15ffeb8d4d) by XennaDemonorph (https://sketchfab.com/demonorph) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

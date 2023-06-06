@@ -1,0 +1,11 @@
+Model Information:
+* title:	zWarrior
+* source:	https://sketchfab.com/3d-models/zwarrior-d3ce984d87d7436187482907c5edd5a5
+* author:	Laura Fossati Díaz (https://sketchfab.com/tentaclemoon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "zWarrior" (https://sketchfab.com/3d-models/zwarrior-d3ce984d87d7436187482907c5edd5a5) by Laura Fossati Díaz (https://sketchfab.com/tentaclemoon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
